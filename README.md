@@ -1,4 +1,3 @@
-# DEBUG ANYTHING
+# DEBUG ANYTHING CODES
 
-> Code for the Debug Anything series on https://charlesagile.com
-
+Codes from https://charlesagile.com/debug-series-nodejs-browser-javascript/
